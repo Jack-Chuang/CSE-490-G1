@@ -6,7 +6,7 @@
 
 ## Github repository
 
-[This is the link to the Github repository]([https://github.com/Jack-Chuang/CSE-490-G1/tree/main/final project](https://github.com/Jack-Chuang/CSE-490-G1/tree/main/final%20project))
+[This is the link to the Github repository](https://github.com/Jack-Chuang/CSE-490-G1/tree/main/final%20project)
 
 ## Project summary
 
