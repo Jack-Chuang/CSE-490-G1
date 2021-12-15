@@ -14,9 +14,9 @@
 - Recorded seven videos including two static scenes and five dynamic scenes.
 - These videos were processed into training data.
 - Then, trained different NeRF and D-NeRF models on different scenes.
-- D-NeRF: ≈ **200 hours**, ≈ **40 hours per scene**, 5 dynamic scenes, 400k iterations
-- NeRF: ≈ **175 hours**, ≈ **25 hours per scene**, 5 dynamic scenes, 2 static scenes, 400k iterations.
-- GPU: Nvidia Tesla P100
+- - D-NeRF: ≈ **200 hours**, ≈ **40 hours per scene**, 5 dynamic scenes, 400k iterations
+- - NeRF: ≈ **175 hours**, ≈ **25 hours per scene**, 5 dynamic scenes, 2 static scenes, 400k iterations.
+- - GPU: Nvidia Tesla P100
 - Quantitatively and qualitatively, compared each novel view synthesis of each scene between its trained NeRF and D-NeRF models.
 
 ## Problem Description
