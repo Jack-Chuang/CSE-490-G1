@@ -2,7 +2,7 @@
 
 ## Final Presentation Video
 
-[Here is the link to my final presentation]([https://youtu.be/nZx4aAZw_n0](https://youtu.be/nZx4aAZw_n0))
+[Here is the link to my final presentation](https://youtu.be/nZx4aAZw_n0)
 
 ## Github repository
 
