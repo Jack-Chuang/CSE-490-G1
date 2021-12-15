@@ -31,7 +31,7 @@ The basis of my code is NeRF and D-NeRF projects, so my codebase can be set up b
 
 ## Dataset
 
-The dataset I used is all recorded by myself. [Here is the link to all the raw data] ([https://drive.google.com/drive/folders/1AFTXyHYdJQlx8aowH7IWz50mXpVNmEXd?usp=sharing](https://drive.google.com/drive/folders/1AFTXyHYdJQlx8aowH7IWz50mXpVNmEXd?usp=sharing)) I used for this project.
+The dataset I used is all recorded by myself. [Here is the link to all the raw data](https://drive.google.com/drive/folders/1AFTXyHYdJQlx8aowH7IWz50mXpVNmEXd?usp=sharing) I used for this project.
 
 ## Techniques
 
