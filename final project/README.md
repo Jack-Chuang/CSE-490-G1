@@ -87,7 +87,7 @@ and here is the original video for comparison.
 
 As you can see the D-NeRF model has successfully captured the cat turning its head. 
 
-The following is the psnr for every iteration of training. I used this to track the training progress. I save an event file for Tensorboard every 100k iterations. As you can see the value of psnr is increasing, which means the model is learning better and better through each iteration. The loss, on the other hand is decreasing over each iteration, this is also an indication of how well the model is performing. 
+The following is the psnr for every iteration of training the cat video. I used this to track the training progress. I save an event file for Tensorboard every 100k iterations. As you can see the value of psnr is increasing, which means the model is learning better and better through each iteration. The loss, on the other hand is decreasing over each iteration, this is also an indication of how well the model is performing. 
 
 ![psnr](https://github.com/Jack-Chuang/CSE-490-G1/blob/a98a167c6bbe1359e7fc4aa09d675526288b612f/final%20project/figures/psnr.PNG)
 
