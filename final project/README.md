@@ -10,7 +10,7 @@
 
 ## Project summary
 
-- Implemented [NeRF]([final project/NeRF.pdf](https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final%20project/NeRF.pdf)) and [D-NeRF]([https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final project/D-NeRF.pdf](https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final%20project/D-NeRF.pdf)) using [Pytorch]([https://pytorch.org/](https://pytorch.org/)) based on their official Pytorch implementation.
+- Implemented [NeRF](https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final%20project/NeRF.pdf) and [D-NeRF](https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final%20project/D-NeRF.pdf) using [Pytorch]((https://pytorch.org/) based on their official Pytorch implementation.
 - Recorded seven videos including two static scenes and five dynamic scenes.
 - These videos were processed into training data.
 - Then, trained different NeRF and D-NeRF models on different scenes.
