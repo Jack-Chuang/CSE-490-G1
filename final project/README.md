@@ -93,10 +93,11 @@ The following is the psnr for every iteration of training the cat video. I used 
 
 ![loss](https://github.com/Jack-Chuang/CSE-490-G1/blob/a98a167c6bbe1359e7fc4aa09d675526288b612f/final%20project/figures/loss.PNG)
 
-After successfully rendering the scenes, I've rendered the static scenes in Unity. 
+After successfully rendering the scenes, I've rendered the static scenes in Unity. Here is one of the video as an example. 
 
 [![Unity rendering](https://github.com/Jack-Chuang/CSE-490-G1/blob/14873844f4eee90f8bffa29061bb8a2dc8e18ebe/final%20project/figures/Unity%20rendering.jpg)](https://youtu.be/SfB9ONEs3os)
 
 ## Future aspects
 
-I followed a [tutorial](https://github.com/kwea123/nerf_Unity) that I found on Github to render my trained NeRF models for two static scenes in [Unity](https://unity.com/) and plan to render D-NeRF models for real-world dynamic scenes in Unity.
+- I followed a [tutorial](https://github.com/kwea123/nerf_Unity) that I found on Github to render my trained NeRF models for two static scenes in [Unity](https://unity.com/) and plan to render D-NeRF models for real-world dynamic scenes in Unity.
+- There are still some afterimages in the result of the D-NeRF model, I am assuming that this might come from errors in the position change with respect to time output by the deformation model. To address this, adding a RNN, LSTM or transformer in between the deformation model and the NeRF model might be the solution. I would like to further implement this idea to the existing model for better D-NeRF model performance.
