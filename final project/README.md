@@ -49,7 +49,7 @@ D-NeRF is basically a NeRF model adding a deformation model in front. If the inp
 
 ![The D-NeRF model](https://github.com/Jack-Chuang/CSE-490-G1/blob/8d22c3da0bb159ff355baffa64fe43da527f95de/final%20project/figures/D-NeRF%20model.PNG)
 
-For the rendering, the sigma value and the RGB value output from the NeRF and D-NeRF model is then passed into the following equation, where the result is the color of the specific pixel: 
+For the rendering, the sigma value and the RGB value output from the NeRF and D-NeRF model is then passed into the following equation, where the result is the color of the specific pixel. Ci is the RGB value: 
 
 ![rendering formula](https://github.com/Jack-Chuang/CSE-490-G1/blob/f2d595cd83eabc56ff84bd234eea1af58252d0b7/final%20project/figures/rendering%20formula.png)
 
