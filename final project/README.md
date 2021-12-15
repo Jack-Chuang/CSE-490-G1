@@ -25,7 +25,7 @@ This project looks at reproducing the implementation of NeRF and D-NeRF on stati
 
 ## Project setup
 
-This project uses Pytorch as the machine learning framework and uses [Tensorboard]([https://www.tensorflow.org/tensorboard](https://www.tensorflow.org/tensorboard)) to track training progress. For training, I used Google Colab to run my training scripts.
+This project uses Pytorch as the machine learning framework and uses [Tensorboard](https://www.tensorflow.org/tensorboard) to track training progress. For training, I used Google Colab to run my training scripts.
 
 The basis of my code is NeRF and D-NeRF projects, so my codebase can be set up by following the installation instructions from the [NeRF repo]([https://github.com/bmild/nerf](https://github.com/bmild/nerf)) and [D-NeRF repo]([https://github.com/albertpumarola/D-NeRF](https://github.com/albertpumarola/D-NeRF)). 
 
